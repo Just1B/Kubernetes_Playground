@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 
-This Repo describe a deployment process on Google Cloud
+This Repo describe a deployment process on Google Cloud Platform
 
 Requirements
 - Google Cloud SDK
@@ -43,6 +43,8 @@ Navigate on `EXTERNAL-IP`/justin to get some love 😍😍😍😍😍😍
 
     kubectl delete deployment go-example
     kubectl delete service go-example
+
+# Licence
 
 The MIT License
 
